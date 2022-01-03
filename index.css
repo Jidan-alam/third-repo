@@ -9,3 +9,10 @@ p{
     height:40px;
     width:60%;
 }
+table{
+    border:2px solid red;
+}
+img{
+    width:90px;
+    height:auto;
+}
