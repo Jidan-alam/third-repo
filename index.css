@@ -13,11 +13,15 @@ p{
 }
 table{
     border:2px solid red;
+    text-align: center;
+    width: 500px;
+    margin:0 auto;
 }
 table th, td{
     border:1px dotted black;
 }
 img{
+    margin-top: 30px;
     width:200px;
     height:auto;
 }
