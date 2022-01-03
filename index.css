@@ -4,3 +4,8 @@ h1{
     display:inline-bolck;
     background-color: rgb(247, 197, 122);
 }
+p{
+    background-color: yellow;
+    height:40px;
+    width:60%;
+}
